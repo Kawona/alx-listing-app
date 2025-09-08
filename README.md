@@ -10,4 +10,11 @@ This app is a clone of an Airbnb lisiting page built programs like Next.js, type
 - Understand typeScript and there interfaces
 
 # Explanation to Project Structure 
-- 
+- alx-listing-app:
+- components: Reusable UI 
+- interfaces: Typescript interfaces for safetys
+- constants
+- public/assets
+- pages
+- styles
+
